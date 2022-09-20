@@ -1,10 +1,10 @@
 import React from "react";
 
 
-function List (){
+function List(){
     return (
         <div>
-        <h1> Articles</h1>
+            <h1> Articles</h1>
          </div>
     );
 }
